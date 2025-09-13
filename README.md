@@ -36,4 +36,4 @@ I am still learning and I am planning in the future to improve the app more and 
 - Improve the code structure to make it more efficient, like giving the user more availability to navigate the app within the same app running.
 - Add more colors to the outputs coming from the app, like the show skills methods (how to show the skills, what colors, what text font, what size, and so on).
 
-And other improvements.
+And other improvements...
