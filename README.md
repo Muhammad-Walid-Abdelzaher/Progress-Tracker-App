@@ -32,8 +32,8 @@ Future Plans:-
 
 I am still learning and I am planning in the future to improve the app more and more like:
 
-1- Not connect to the database globally; instead, calling it when needed.
-2- Improve the code structure to make it more efficient, like giving the user more availability to navigate the app within the same app running.
-3- Add more colors to the outputs coming from the app, like the show skills methods (how to show the skills, what colors, what text font, what size, and so on).
+- Not connect to the database globally; instead, calling it when needed.
+- Improve the code structure to make it more efficient, like giving the user more availability to navigate the app within the same app running.
+- Add more colors to the outputs coming from the app, like the show skills methods (how to show the skills, what colors, what text font, what size, and so on).
 
 And other improvements.
